@@ -201,17 +201,3 @@ $RECYCLE.BIN/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-
-### BDELAB ###
-
-hadoop.properties
-
-# generated thrift classes will not be shipped
-**/de/hska/iwi/bdelab/schema/
-**/de/hska/iwi/bdelab/schema2/
-
-# refs
-#BatchloaderRef.java
-#PageviewsRef.java
-#SimpleBatchWorkflowRef.java
-#stormpageviewsref/
